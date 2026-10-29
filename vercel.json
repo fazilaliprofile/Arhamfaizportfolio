@@ -1,0 +1,17 @@
+{
+  "headers": [
+    {
+      "source": "/ARHAM_ATS_RESUME.pdf",
+      "headers": [
+        {
+          "key": "Content-Disposition",
+          "value": "attachment; filename=\"Arham_Faiz_Ansari_CV.pdf\""
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/pdf"
+        }
+      ]
+    }
+  ]
+}
